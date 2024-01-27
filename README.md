@@ -23,6 +23,7 @@
   - **Kosen Security Contest 9th(Team:Forkbom)**
   - *CpawCTF FullScore*
   - *SetodaNote CTF 4960pt 26th(2023/11/02)*
+  - *RopEmporium Writeup :* https://yayoi-cs.github.io/publishPage/
 - 📕 *IP,FE and trying to AP*
 
 
