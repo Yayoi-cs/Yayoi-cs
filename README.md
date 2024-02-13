@@ -24,6 +24,10 @@
   - *CpawCTF FullScore*
   - *SetodaNote CTF 4960pt 26th(2023/11/02)*
   - *RopEmporium Writeup :* https://yayoi-cs.github.io/publishPage/
+  - *Pico CTF 13510pt*
+Try Hack Me
+<img src="https://tryhackme-badges.s3.amazonaws.com/k0080.png" alt="TryHackMe">
+
 - 📕 *IP,FE and trying to AP*
 
 
