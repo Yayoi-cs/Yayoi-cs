@@ -31,4 +31,5 @@ Try Hack Me
 - 📕 *IP,FE and trying to AP*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayoi-cs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayoi-cs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
