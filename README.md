@@ -1,35 +1,35 @@
 ### *Hi there 👋*
 - Japan🇯🇵
-- Programer & Security Engineer
-- I love Golang......Go!Go!Go!
+- Full Stack Programer & Security Engineer
+- I love **Golang**......Go!Go!Go!
 #### 🍀 *My skills*
+##### Server
 - ***Go***:
   - *WebAPI,and more and more....*
-- ***C#***:
-  - *WPF,.NetMaui,ASP.Net,Xamarin,WinUI3*
+- ***Rust***:
+  - *Learning*
 - ***PHP***:
   - *Yii*
-- ***js***:
-  - *Learning Nuxt.js*
+##### Desktop & Mobile
+- ***C#***:
+  - *WPF,.NetMaui,WinUI3*
 - ***Kotlin***:
   - *AndroidKotlin*
+##### Web
+- ***js***:
+  - *Learning Nuxt.js*
+##### Other
 - ***C***:
-  - *Just Console*
 - ***C++***:
   - *Arduino*
+- ***Java***
+  - *Processing*
+##### Security
 - ***Python***:
-  - *For CTF & Data science*
+  - *For CTF*
 - ***CTF***:
-  - **Kosen Security Contest 9th(Team:Forkbom)**
-  - *CpawCTF FullScore*
-  - *SetodaNote CTF 4960pt 26th(2023/11/02)*
+  - *Love Binary,Crypt*
   - *RopEmporium Writeup :* https://yayoi-cs.github.io/publishPage/
-  - *Pico CTF 13510pt*
-Try Hack Me
-<img src="https://tryhackme-badges.s3.amazonaws.com/k0080.png" alt="TryHackMe">
-
-- 📕 *IP,FE and trying to AP*
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayoi-cs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
