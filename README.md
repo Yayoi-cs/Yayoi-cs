@@ -29,7 +29,6 @@
   - *For CTF*
 - ***CTF***:
   - *Love Binary,Crypt*
-  - *RopEmporium Writeup :* https://yayoi-cs.github.io/publishPage/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayoi-cs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
