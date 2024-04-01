@@ -17,7 +17,7 @@
   - *AndroidKotlin*
 ##### Web
 - ***js***:
-  - *Learning Nuxt.js*
+  - *Learning Next.js*
 ##### Other
 - ***C***:
 - ***C++***:
