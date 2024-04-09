@@ -1,6 +1,6 @@
 ### *Hi there 👋*
 - Japan🇯🇵
-- Full Stack Programer & Security Engineer
+- Backend & Security Engineer
 - I love **Golang**......Go!Go!Go!
 #### 🍀 *My skills*
 ##### Server
@@ -25,10 +25,12 @@
 - ***Java***
   - *Processing*
 ##### Security
-- ***Python***:
-  - *For CTF*
+- ***Python***
+- ***Assembly***
 - ***CTF***:
-  - *Love Binary,Crypt*
+  - *Love Binary exploit & reverse engineering*
+  - *Pico CTF 7th in Jp students*
+  - *Malware Analyze, bypassing Antidebug*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayoi-cs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
