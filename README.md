@@ -6,7 +6,7 @@
 Hi, I'm tsune.
 
 ### CTF archive
-https://yayoi-cs.github.io/blog/starter.html
+https://blog.reg.rip/starter.html
 
 - '25 Midnight Flag CTF Final (Rennes, Jun/2025)
 - '25 CODEGATE Global Hacking Competition Final (Seoul, Jul/2025)
