@@ -13,7 +13,7 @@ https://blog.reg.rip
 
 - '25 Midnight Flag CTF Final (Rennes, Jun/2025)
 - '25 CODEGATE Global Hacking Competition Final (Seoul, Jul/2025)
-- '25 TSG CTF Final (Tokyo, Upcoming)
+- '25 TSG CTF Final (Tokyo, Apr/2026)
 
 ### CTF authoring
 https://github.com/Yayoi-cs/my-ctf-challenge
