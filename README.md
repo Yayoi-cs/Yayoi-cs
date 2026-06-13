@@ -3,10 +3,22 @@
 > A: It's simply because I was born in March (a.k.a Yayoi in Japan)
 
 ## Said, Hi!
+https://reg.rip
+
 Hi, I'm tsune. I'm trying to conquer computer science.
 
-### 0-day exploit
-- CVSS 9.6: Use After Free in LadybirdBrowser/ladybird [GHSA-w89h-j2xg-c457](https://github.com/LadybirdBrowser/ladybird/security/advisories/GHSA-w89h-j2xg-c457)
+### real-world exploit
+https://github.com/Yayoi-cs/n-day_exploits
+
+0-day
+- GHSA-w89h-j2xg-c457
+
+0.5-day (let 0.5-day "duplicated bug but have exploited before patch")
+
+- CVE-2026-49417_1day_LPE_exploit
+- CVE-2026-45258_1day_LPE_exploit
+
+1-day
 
 ### CTF archive
 https://blog.reg.rip
