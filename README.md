@@ -15,6 +15,8 @@ Hi, I'm tsune. I'm trying to conquer computer science and exploit the world.
 - '25 Midnight Flag CTF Final (Rennes, Jun/2025)
 - '25 CODEGATE Global Hacking Competition Final (Seoul, Jul/2025)
 - '25 TSG CTF Final (Tokyo, Apr/2026)
+- '26 BlackHat Mea Qualified
+- '26 CSAW Qualified
 
 ### CTF authoring
 
@@ -27,3 +29,4 @@ Hi, I'm tsune. I'm trying to conquer computer science and exploit the world.
 ### Competition
 
 - 8th APAC HPC-AI Competition / Excellent AI performance award
+
